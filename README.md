@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsevolodzakk
 - 👀 I’m interested in game developing!
-- 🌱 I’m currently learning Unity and Unreal Engine 4 for a career.
-- 💞️ I’m looking to collaborate on small projects, to get some practical experience with coding stuff.
+- 🌱 I’m currently зкщпкуыыштп Unity and Unreal Engine 4 for a career.
+- 💞️ I’m looking to collaborate on вшааукуте projects, to get some practical experience with game design and coding stuff.
 - 📫 How to reach me: on Telegram @darktrace
 
 <!---
